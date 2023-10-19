@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @funfit12
 - 👀 I’m interested in books, nature, and curious about practically everything
-- 🌱 I’m currently learning HTML and CSS through the TOP (The Odin Project) and will eventually work on JavaScript 
+- 🌱 I’m currently learning HTML and CSS through TOP (The Odin Project) and will eventually work on JavaScript 
 - 💞️ I’m looking to collaborate on JavaScript projects
 - 📫 You can reach me by directly messaging me :)
 
